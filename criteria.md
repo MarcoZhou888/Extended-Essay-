@@ -107,19 +107,68 @@ Assessment Objectives: Application and analysis; Synthesis and evaluation.
 Why these objectives?
 
 Application and analysis because appropriate analysis is used to determine relevant findings.
-
 Synthesis and evaluation because a line of argument links the research question, research findings, and conclusions.
 
 D: Discussion and evaluation
 Assessment Objectives: Synthesis and evaluation.
 
 Why these objectives?
-
 Synthesis and evaluation because there is a balanced discussion of the significance of the findings, and the effectiveness of the essay is evaluated.
 
 E: Reflection
 Assessment Objectives: Synthesis and evaluation.
 
 Why these objectives?
-
 Synthesis and evaluation because the extended essay learning experience is evaluated and the student’s growth reflected on.
+
+# Extended Essay Assessment Guide
+
+***
+
+## Extended Essay Assessment Criteria
+
+> **General Note for All Criteria:** If the work does not reach a standard outlined by the performance level descriptors, **0 marks** are awarded for that criterion.
+
+### Criterion A: Framework for the Essay
+**Guiding Question:** Do the research question, research methods, and structural conventions followed provide an effective framework for the essay?
+
+* **Research Question**
+    * **1–2 marks:** A research question is stated but it lacks relevance to the topic of investigation, clarity, or focus.
+    * **3–4 marks:** The research question is relevant to the topic of their investigation and clear but only partially focused in relation to the scope of the essay.
+    * **5–6 marks:** The research question is relevant to the topic of investigation, clear, and focused in relation to the scope of the essay.
+* **Research Methods**
+    * **1–2 marks:** Research methods are used, but these are mostly unsuitable for the research question.
+    * **3–4 marks:** Research methods that are mostly suitable for the research question are explained and applied with partial effectiveness.
+    * **5–6 marks:** Research methods that are suitable for the research question are explained and applied effectively.
+* **Structure**
+    * **1–2 marks:** Structural conventions are present in the essay but these do not support communication of the research.
+    * **3–4 marks:** Structural conventions used in the essay support some aspects of the communication of the research.
+    * **5–6 marks:** Structural conventions used in the essay effectively support communication of the research.
+
+---
+
+### Criterion B: Knowledge and Understanding
+**Guiding Question:** Does the student demonstrate knowledge and understanding of the subject matter being used in their research?
+
+* **Knowledge**
+    * **1–2 marks:** Research materials are used to establish knowledge of the subject matter but these materials lack relevance.
+    * **3–4 marks:** Relevant research materials are used to establish some knowledge of the subject matter.
+    * **5–6 marks:** Comprehensive, relevant research materials are used to establish knowledge of the subject matter.
+* **Understanding — Terminology**
+    * **1–2 marks:** Terminology is used but it lacks accuracy or is very limited.
+    * **3–4 marks:** Some relevant terminology is used accurately to demonstrate understanding of the subject matter.
+    * **5–6 marks:** Relevant terminology is used accurately and consistently to demonstrate understanding of the subject matter.
+* **Understanding — Concepts**
+    * **1–2 marks:** Concepts are identified but these are not relevant or are explained superficially.
+    * **3–4 marks:** Some relevant concepts are explained and used with partial effectiveness to demonstrate understanding of the subject matter.
+    * **5–6 marks:** Relevant concepts are explained and used effectively to demonstrate understanding of the subject matter.
+
+---
+
+### Criterion C: Analysis and Line of Argument
+**Guiding Question:** Does the student analyse the information presented in the essay and produce a coherent line of argument?
+
+* **Analysis**
+    * **1–2 marks:** The essay is descriptive rather than analytical.
+    * **3–4 marks:** The essay includes analysis that is partially effective and produces some relevant findings.
+    * **5–6 marks:** Analysis in the essay is effective and consistently produces
